@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>20683770-4qkl609pseuvvfq8c0jhau8r223ttssc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.20683770-4qkl609pseuvvfq8c0jhau8r223ttssc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2CAT-oBnUEp1ReQ3uQ8To9MoiJHsfjcY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>20683770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.torrefactor</string>
+	<key>PROJECT_ID</key>
+	<string>torrefactor-e13dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>torrefactor-e13dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:20683770:ios:cb7ed907ba9f0def84e243</string>
+</dict>
+</plist>

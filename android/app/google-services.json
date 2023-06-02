@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20683770",
+    "firebase_url": "https://torrefactor-e13dc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "torrefactor-e13dc",
+    "storage_bucket": "torrefactor-e13dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20683770:android:f8579f12dd9c496a84e243",
+        "android_client_info": {
+          "package_name": "com.example.torrefactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20683770-v7eals047a5o100f5uv1l4chjvdgi24d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6IlQTSG_Iv4GqUndIh0WffAfdUvnMu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20683770-v7eals047a5o100f5uv1l4chjvdgi24d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20683770-4qkl609pseuvvfq8c0jhau8r223ttssc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.torrefactor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
